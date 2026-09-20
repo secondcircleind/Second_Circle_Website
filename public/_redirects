@@ -1,0 +1,15 @@
+/about-us /about 301
+/about-us/ /about 301
+/our-programs /our-work 301
+/our-programs/ /our-work 301
+/contact-us /contact 301
+/contact-us/ /contact 301
+/privacy-policy /privacy 301
+/privacy-policy/ /privacy 301
+/privacy-policy-2 /donation-policy 301
+/privacy-policy-2/ /donation-policy 301
+/financial-reports-list /resources/financial-reports 301
+/financial-reports-list/ /resources/financial-reports 301
+/legal-and-statutory-documents /resources/legal-documents 301
+/legal-and-statutory-documents/ /resources/legal-documents 301
+/* /index.html 200

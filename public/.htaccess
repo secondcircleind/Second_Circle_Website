@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteRule ^about-us/?$ /about [R=301,L]
+  RewriteRule ^our-programs/?$ /our-work [R=301,L]
+  RewriteRule ^contact-us/?$ /contact [R=301,L]
+  RewriteRule ^privacy-policy/?$ /privacy [R=301,L]
+  RewriteRule ^privacy-policy-2/?$ /donation-policy [R=301,L]
+  RewriteRule ^financial-reports-list/?$ /resources/financial-reports [R=301,L]
+  RewriteRule ^legal-and-statutory-documents/?$ /resources/legal-documents [R=301,L]
+
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

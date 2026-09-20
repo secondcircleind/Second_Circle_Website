@@ -1,0 +1,10 @@
+# Temporary Vercel preview host: secondcirclewebsite.vercel.app
+# This file must stay closed to crawlers while the public URL is the preview.
+# At production cutover on https://secondcircleindia.org, restore:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://secondcircleindia.org/sitemap.xml
+# Do not invent a production launch date.
+
+User-agent: *
+Disallow: /
