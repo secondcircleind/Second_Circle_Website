@@ -41,6 +41,8 @@ jobs:
           server: ${{ secrets.HOSTINGER_SERVER }}
           username: ${{ secrets.HOSTINGER_USERNAME }}
           password: ${{ secrets.HOSTINGER_PASSWORD }}
-          server-dir: ${{ secrets.HOSTINGER_REMOTE_PATH }}
+          # The dedicated FTP account is already jailed to public_html.
+          # Deploying to /public_html/ would create public_html/public_html/.
+          server-dir: /
           local-dir: ./dist/
           dangerous-clean-slate: false
