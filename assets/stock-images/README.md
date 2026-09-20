@@ -1,6 +1,6 @@
 # Stock image set
 
-Temporary visual assets for the React rebuild. Replace with approved Second Circle India photographs when available. Do not treat these images as documentation of Second Circle programmes, partners, or outcomes.
+Temporary visual assets for the website. Replace with approved Second Circle India photographs when available. Do not treat these images as documentation of Second Circle programmes, partners, or outcomes.
 
 ## Intended use
 
@@ -27,7 +27,7 @@ All current files are free Pexels photographs (Pexels Licence: free for commerci
 
 ## Visual treatment rules
 
-- Do not show visitor-facing “temporary stock” or “stock photograph” captions on the live site.
+- Do not show visitor-facing “temporary stock” or “stock photograph” captions on the website.
 - Keep content-status labels (pending, coming soon, draft, donation workflow not active) separate from photography.
 - Do not crop overlays across faces.
 - Programme images must not imply a completed Second Circle field result.

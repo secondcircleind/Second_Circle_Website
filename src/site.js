@@ -522,14 +522,9 @@ export const photoSizes = {
 
 export const siteOrigin = 'https://secondcircleindia.org';
 export const productionHost = 'secondcircleindia.org';
-export const previewHost = 'secondcirclewebsite.vercel.app';
 
 export function isProductionHost(hostname = typeof window === 'undefined' ? '' : window.location.hostname) {
   return hostname === productionHost || hostname === `www.${productionHost}`;
-}
-
-export function isPreviewHost(hostname = typeof window === 'undefined' ? '' : window.location.hostname) {
-  return hostname === previewHost || hostname.endsWith('.vercel.app');
 }
 
 export const legacyAliases = {

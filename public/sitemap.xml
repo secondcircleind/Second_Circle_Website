@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Temporary Vercel preview (secondcirclewebsite.vercel.app). Do not list production URLs on this host. At cutover to https://secondcircleindia.org, restore the production urlset from CHANGELOG / DEPLOYMENT. Do not invent a launch date. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://secondcircleindia.org/</loc></url>
+  <url><loc>https://secondcircleindia.org/about</loc></url>
+  <url><loc>https://secondcircleindia.org/our-core-values</loc></url>
+  <url><loc>https://secondcircleindia.org/our-work</loc></url>
+  <url><loc>https://secondcircleindia.org/our-work/community-engagement</loc></url>
+  <url><loc>https://secondcircleindia.org/our-work/access-and-support</loc></url>
+  <url><loc>https://secondcircleindia.org/our-work/research-and-learning</loc></url>
+  <url><loc>https://secondcircleindia.org/our-work/advocacy-and-systems-change</loc></url>
+  <url><loc>https://secondcircleindia.org/approach</loc></url>
+  <url><loc>https://secondcircleindia.org/stories</loc></url>
+  <url><loc>https://secondcircleindia.org/donate</loc></url>
+  <url><loc>https://secondcircleindia.org/contact</loc></url>
+  <url><loc>https://secondcircleindia.org/resources</loc></url>
+  <url><loc>https://secondcircleindia.org/resources/financial-reports</loc></url>
+  <url><loc>https://secondcircleindia.org/resources/legal-documents</loc></url>
+  <url><loc>https://secondcircleindia.org/privacy</loc></url>
+  <url><loc>https://secondcircleindia.org/donation-policy</loc></url>
 </urlset>
